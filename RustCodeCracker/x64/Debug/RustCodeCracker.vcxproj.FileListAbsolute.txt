@@ -1,1 +1,0 @@
-D:\Visual-Studio-Projects\RustCodeCracker\x64\Debug\RustCodeCracker.exe
